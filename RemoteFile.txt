@@ -1,2 +1,4 @@
-Change1 – First commit in remote file in github
+﻿Change1 – First commit in remote file in github
 Change2 - Second commit in remote file in github
+
+Change3 - Change 3 in Local TestRepo file
